@@ -1,4 +1,4 @@
-<h1>SOC Honeynet Home Lab - Lab</h1>
+<h1>SOC Honeynet - Lab</h1>
 
 
  
