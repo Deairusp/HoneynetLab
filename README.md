@@ -3,7 +3,9 @@
 
  
 <h2>Description</h2>
-Project consists of a lab that walks the user through creating a SOC Honeynet. The lab allows you to follow a step by step guide ......
+The goal is to design and deploy a small-scale honeynet to capture and analyze real-world cyberattacks in a controlled environment.
+
+By deploying virtual machines configured as vulnerable systems, the honeynet helps simulate a target network and gather data on attacker behavior, malware, and exploit patterns.
 <br />
 
 
