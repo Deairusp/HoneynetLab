@@ -29,7 +29,11 @@ By deploying virtual machines configured as vulnerable systems, the honeynet hel
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch Azure and search Resource Groups: <br/>
+Setup Azure Enviornment: <br/>
+ - Create Resource Group<br/>
+ - Deploy Virtual Network<br/>
+ - Add subnet<br/>
+ - Create virtual Machine (intentionally vulnerable)<br/>
 <img src="https://i.imgur.com/QGW89IW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
