@@ -17,7 +17,14 @@ By deploying virtual machines configured as vulnerable systems, the honeynet hel
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> 
-- <b>Remote Desktop</b> 
+- <b>Remote Desktop</b>
+- <b>Azure Virtual Network</b>
+- <b>Azure Virtual Machine</b>
+- <b>Log Analytics Workspace</b>
+- <b>Azure Monitoring Agent(AMA)</b>
+- <b>Microsoft Sentinel</b>
+- <b>Sentinel Watchlist</b>
+
 
 <h2>Program walk-through:</h2>
 
