@@ -32,7 +32,7 @@ By deploying virtual machines configured as vulnerable systems, the honeynet hel
 Setup Azure Enviornment: <br/>
  - Create Resource Group<br/>
  - Deploy Virtual Network<br/>
- - Add subnet<br/>
+ - Add subnet for management<br/>
  - Create virtual Machine (intentionally vulnerable)<br/>
 <img src="https://i.imgur.com/QGW89IW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
