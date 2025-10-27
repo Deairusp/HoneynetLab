@@ -34,10 +34,15 @@ Setup Azure Enviornment: <br/>
  - Deploy Virtual Network<br/>
  - Add subnet for management<br/>
  - Create virtual Machine (intentionally vulnerable)<br/>
+ 
 <img src="https://i.imgur.com/QGW89IW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Resource Group: Use dashes when naming resource group then choose region  <br/>
+Create Log Analytics Workspace:  <br/>
+ - Create Log Analytict Workspace in Azure <br/>
+ - Connect Virtual Machine to the workspace <br/>
+ - Enable data collection for security and performance logs <br/>
+ 
 <img src="https://i.imgur.com/iFwVGdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
