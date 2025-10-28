@@ -24,7 +24,7 @@ The goal of this project is to design and deploy a small-scale honeynet to captu
 - <b>Sentinel Watchlist</b>
 
 
-<h2>Program walk-through:</h2>
+<h2>Program overview:</h2>
 
 <p align="center">
  Setup Azure Enviornment: <br/>
