@@ -45,7 +45,7 @@ Create and configure Log Analytics Workspace:  <br/>
 Create Sentinal Instance<br/>
 - Link log analyticts workspace to Sentinal
   
-<img src="https://i.imgur.com/my7nABQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MzOV5Ff.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Launch Azure Monitoring Agent   <br/>
