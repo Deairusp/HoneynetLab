@@ -55,19 +55,23 @@ Create Sentinal Instance<br/>
 Launch Azure Monitoring Agent   <br/>
 - Deploy AMA in sentinal<br/>
 - located in content hub<br/>
-- search security evevt(download)<br/>
+- search security event(download)<br/>
 - configure with Windows security event Azure Monitoring Agent(AMA)<br/>
 - Open connector page <br/>
 - Create data collection rule <br/>
-- Select you VM and create <br/>
+- Select your VM and create (this takes a minute) <br/>
 <img src="https://i.imgur.com/EDQTbSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Use dashes when naming your VM (make sure region matches with resource group location)  <br/>
+Open Log Analytics Workspace  <br/>
+- Travel to the logs tab <br/>
+- Query and filter logs with KQL
+
 <img src="https://i.imgur.com/ZAicJFN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Image: Use the Windows 10 Pro, version 22H2 - x64 Gen2  <br/>
+Create The Watchlist  <br/>
+- contains geographical information 
 <img src="https://i.imgur.com/Z03QUSn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -103,19 +107,5 @@ Image: Use the Windows 10 Pro, version 22H2 - x64 Gen2  <br/>
 <img src="https://i.imgur.com/6Ppg4sx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Paste virtual machines public IP address then click connect  <br/>
-<img src="https://i.imgur.com/JcVeodK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Click more choices then enter user name and password you created for VM (use notepad to keep track of username and password)  <br/>
-<img src="https://i.imgur.com/stVRH9H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Click yes (let VM connect)  <br/>
-<img src=https://i.imgur.com/6zLHZce.png"" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the the virtual machine   <br/>
-<img src="https://i.imgur.com/f4iHZG2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+ 
 
