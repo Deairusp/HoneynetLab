@@ -27,7 +27,7 @@ The goal of this project is to design and deploy a small-scale honeynet to captu
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Setup Azure Enviornment: <br/>
+ Setup Azure Enviornment: <br/>
  - Create Resource Group<br/>
  - Deploy Virtual Network<br/>
  - Add subnet for management<br/>
