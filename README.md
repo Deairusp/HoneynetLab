@@ -38,8 +38,7 @@ The goal of this project is to design and deploy a small-scale honeynet to captu
 <br />
 Create and configure Log Analytics Workspace:  <br/>
  - Create Log Analytict Workspace in Azure <br/>
- - Connect Virtual Machine to the workspace <br/>
- - Enable data collection for security and performance logs <br/>
+  <br/>
  
 <img src="https://i.imgur.com/iFwVGdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -62,7 +61,7 @@ Launch Azure Monitoring Agent   <br/>
 <br />
 <br />
 Open Log Analytics Workspace  <br/>
-- Travel to the logs tab <br/>
+- Click the logs tab <br/>
 - Query and filter logs with KQL
 
 <img src="https://i.imgur.com/ZAicJFN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
