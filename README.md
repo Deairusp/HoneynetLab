@@ -52,7 +52,9 @@ Create Sentinal Instance<br/>
 <img src="https://i.imgur.com/my7nABQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a Virtual Machine: Select the resource group you just created to house your VM  <br/>
+Launch Azure Monitoring Agent   <br/>
+- Deploy AMA in sentinal
+- located in content hub
 <img src="https://i.imgur.com/EDQTbSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
