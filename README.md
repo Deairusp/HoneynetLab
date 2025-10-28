@@ -38,7 +38,7 @@ Setup Azure Enviornment: <br/>
 <img src="https://i.imgur.com/QGW89IW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Log Analytics Workspace:  <br/>
+Create and configure Log Analytics Workspace:  <br/>
  - Create Log Analytict Workspace in Azure <br/>
  - Connect Virtual Machine to the workspace <br/>
  - Enable data collection for security and performance logs <br/>
@@ -46,7 +46,9 @@ Create Log Analytics Workspace:  <br/>
 <img src="https://i.imgur.com/iFwVGdp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm Resource Group creation: Take note of the location then search virtual machines in search bar <br/>
+Install Azure Monitoring Agent (AMA)<br/>
+- Deploy the AMA on the virtual machine
+  
 <img src="https://i.imgur.com/my7nABQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
