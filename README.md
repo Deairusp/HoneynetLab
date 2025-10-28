@@ -4,8 +4,6 @@
  
 <h2>Description</h2>
 The goal is to design and deploy a small-scale honeynet to capture and analyze real-world cyberattacks in a controlled environment.
-
-By deploying virtual machines configured as vulnerable systems, the honeynet helps simulate a target network and gather data on attacker behavior, malware, and exploit patterns.
 <br />
 
 
