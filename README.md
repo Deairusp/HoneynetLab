@@ -57,6 +57,8 @@ Launch Azure Monitoring Agent   <br/>
 - located in content hub<br/>
 - search security evevt(download)<br/>
 - configure with Windows security event Azure Monitoring Agent(AMA)<br/>
+- Open connector page <br/>
+- Create data collection rule <br/>
 <img src="https://i.imgur.com/EDQTbSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
