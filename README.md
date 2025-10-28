@@ -71,7 +71,7 @@ Open Log Analytics Workspace  <br/>
 <br />
 <br />
 Create The Watchlist  <br/>
-- contains geographical information 
+- THe watchlist contains geographical information 
 <img src="https://i.imgur.com/Z03QUSn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
