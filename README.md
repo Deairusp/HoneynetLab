@@ -32,7 +32,7 @@ The goal of this project is to design and deploy a small-scale honeynet to captu
  - Deploy Virtual Network<br/>
  - Create virtual Machine (intentionally vulnerable)<br/>
  
-<img src="https://i.imgur.com/Fzha9nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vVdHptw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create and configure Log Analytics Workspace:  <br/>
