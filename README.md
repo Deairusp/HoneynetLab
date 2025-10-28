@@ -59,6 +59,7 @@ Launch Azure Monitoring Agent   <br/>
 - configure with Windows security event Azure Monitoring Agent(AMA)<br/>
 - Open connector page <br/>
 - Create data collection rule <br/>
+- Select you VM and create <br/>
 <img src="https://i.imgur.com/EDQTbSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
