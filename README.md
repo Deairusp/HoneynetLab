@@ -53,8 +53,9 @@ Create Sentinal Instance<br/>
 <br />
 <br />
 Launch Azure Monitoring Agent   <br/>
-- Deploy AMA in sentinal
-- located in content hub
+- Deploy AMA in sentinal<br/>
+- located in content hub<br/>
+- search security evevt<br/>
 <img src="https://i.imgur.com/EDQTbSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
