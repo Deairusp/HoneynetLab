@@ -3,7 +3,7 @@
 
  
 <h2>Description</h2>
-The goal is to design and deploy a small-scale honeynet to capture and analyze real-world cyberattacks in a controlled environment.
+The goal of this project is to design and deploy a small-scale honeynet to capture and analyze real-world cyberattacks in a controlled environment.
 <br />
 
 
