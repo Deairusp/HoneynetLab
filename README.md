@@ -50,7 +50,7 @@ Create Sentinal Instance<br/>
 <br />
 Launch Azure Monitoring Agent   <br/>
 - Deploy AMA in sentinal<br/>
-- located in content hub<br/>
+- click content hub<br/>
 - search security events(download)<br/>
 - configure with Windows security event Azure Monitoring Agent(AMA)<br/>
 - Open connector page <br/>
